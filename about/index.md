@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="/res/aboutphoto.jpeg" width="250" height="250" align="right">
+<img src="/res/aboutphoto.jpg" width="200" height="200" align="right">
 
 Hi, I'm Tama.
 I'm awesome.
